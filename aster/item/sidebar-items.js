@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["ItemBuilder",""],["ItemEnumBuilder",""],["ItemExternCrateBuilder","A builder for extern crate items"],["ItemFnBuilder",""],["ItemFnDeclBuilder",""],["ItemStructBuilder",""],["ItemTupleStructBuilder",""],["ItemUseBuilder",""],["ItemUsePathBuilder",""],["ItemUsePathListBuilder",""]]});
